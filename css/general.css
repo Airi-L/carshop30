@@ -93,8 +93,8 @@ ul {
 }
 
 #photo1 {
-    /* background-image: url("..//images/employee.jpg"); */
-    background: thistle url("..//images/employee.jpg") repeat-y center;
+    background-image: url("..//images/employee.jpg");
+    /* background: thistle url("..//images/employee.jpg") repeat-y center; */
     /* margin: 10px 20px 30px 40px; */
     /* position: absolute;
     left: 60px;
@@ -130,7 +130,7 @@ ul {
 #container {
     width: 85%;
     margin: auto;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
 }
 
 #main_banner {
