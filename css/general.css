@@ -112,7 +112,7 @@ ul {
     background-image: url("../images/building.company.webp");
     /* padding: 75px; */
     /* overflow: scroll; */
-    box-sizing: content-box;
+    /* box-sizing: content-box; */
     /* position: relative; */
     /* z-index: -1000; */
 }
